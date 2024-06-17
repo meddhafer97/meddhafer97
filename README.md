@@ -1,5 +1,4 @@
-- 👋 Hello there, I’m Mohamed Dhafer
-- 👀 I use github to share the codes I've learned from the projects I've worked on.
+- 👋 Hello! I'm a software engineer with a specialization in data engineering, currently working as an RPA and low-code developer. I have a strong passion for consulting and digital transformation.
 - 📫 How to reach me : Linkedin : https://www.linkedin.com/in/mohamed-dhafer-hadj-amor-17a7b1176/
 
 <!---
